@@ -27,6 +27,7 @@
 #define nichts void
 #define klasse class
 #define öffentlich public
+#define oeffentlich public
 #define privat private
 #define abbruch break
 #define fall case
